@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a **Computer Science** professional with a focus on **software development, applied AI, and user-centered product design**. I enjoy turning real-world challenges into accessible, practical digital experiences—from iOS prototypes and interactive web applications to embedded systems and relational databases.
+My background is in **Computer Science**, with a focus on **software development, applied AI, and user-centered product design**. I enjoy turning real-world challenges into accessible, practical digital experiences—from iOS prototypes and interactive web applications to embedded systems and relational databases.
 
 My work combines a product mindset with hands-on implementation: understanding the problem, shaping the user experience, and building a functional technical foundation.
 
@@ -24,17 +24,17 @@ My work combines a product mindset with hands-on implementation: understanding t
 | :--- | :--- | :--- |
 | **[Calme](https://github.com/shahadzaid909-cmd/Calme-iOS.)** | Caregiver-centered iOS prototype for personalized calming suggestions | Swift, SwiftUI, UX, personalization |
 | **[Saloumna · سلومنا](https://github.com/shahadzaid909-cmd/Saloumna)** | Interactive game inspired by Saudi culture and regions | Next.js, React, TypeScript, Tailwind CSS |
-| **[Smart Cane](https://github.com/shahadzaid909-cmd/Smart-Cane-Arduino)** | Assistive technology hardware prototype for obstacle awareness | Arduino Uno, sensors, vibration feedback |
+| **[Shadow Escape](https://github.com/shahadzaid909-cmd/Shadow-Escape-Unity)** | 2D survival game featuring light-based safe zones, enemy behavior, and timed escape mechanics | Unity, C#, game systems |\n| **[Smart Cane](https://github.com/shahadzaid909-cmd/Smart-Cane-Arduino)** | Assistive technology hardware prototype for obstacle awareness | Arduino Uno, sensors, vibration feedback |
 | **[Clinic Appointment & Queue System](https://github.com/shahadzaid909-cmd/Clinic-Appointment-Queue-System)** | Appointment and patient queue management using custom data structures | Java, linked list, linked queue |
 | **[Online Course Registration System](https://github.com/shahadzaid909-cmd/Online-Course-Registration-System)** | Course registration application and database integration | Java, JavaFX, Oracle SQL |
-| **[Flight Booking System](https://github.com/shahadzaid909-cmd/Flight-Booking-System)** | Object-oriented flight booking application | Java, JavaFX |
+| **[Flight Booking System](https://github.com/shahadzaid909-cmd/Flight-Booking-System)** | Object-oriented flight booking application with a console entry point | Java, NetBeans |
 
 <sub>Projects include academic work and prototypes. See individual repositories for implementation scope and setup notes.</sub>
 
 ## Technical Toolkit
 
 **Software development**  
-`Python` `Java` `Swift` `SwiftUI` `JavaScript` `TypeScript` `React` `Next.js`
+`Python` `Java` `C#` `Swift` `SwiftUI` `JavaScript` `TypeScript` `React` `Next.js`
 
 **Data & intelligent systems**  
 `SQL` `Oracle Database` `AI Prototyping` `Personalization` `Firebase`
@@ -43,7 +43,7 @@ My work combines a product mindset with hands-on implementation: understanding t
 `Figma` `UX Research` `UI Design` `Accessibility` `Human-Centered Design`
 
 **Engineering workflow**  
-`Git` `GitHub` `Arduino` `Project Management`
+`Git` `GitHub` `Unity` `Arduino` `Project Management`
 
 ## Additional Projects
 
